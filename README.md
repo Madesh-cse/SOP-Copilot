@@ -359,11 +359,11 @@ The following questions should demonstrate different types of manufacturing-docu
 ### Question 1 — Specification / Measurement
 
 **Question:**  
-[Enter an original question about a measurement, tolerance, or technical specification found in the PDFs.]
+1.What is the recommended coolant concentration for the TX-200 CNC turning centre?
 
 **Actual application answer:**
 
-[Paste the answer returned by the application.]
+![Questions-1](https://github.com/Madesh-cse/SOP-Copilot/blob/faf56d1e73c9736fac2214fd8fabe0db74ff8135/Questions-1.png)
 
 **Retrieved source:**  
 [Document name and page number.]
