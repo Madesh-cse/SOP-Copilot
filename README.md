@@ -396,6 +396,8 @@ What is the outer diameter tolerance for the BH-220 bearing housing?
 
 ### Question 5 — Unsupported / Unanswerable Question
 
+What is the monthly salary of the manufacturing plant supervisor?
+
 **Actual application answer:**
 
 ![Question-5](https://github.com/Madesh-cse/SOP-Copilot/blob/a0776a70b260bc2969dd2d778e2258e6063f8114/Question-5.png)
