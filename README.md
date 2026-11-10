@@ -141,7 +141,7 @@ Install the following before running the application:
 ### Clone the Repository
 
 ```bash
-git clone <YOUR_PUBLIC_GITHUB_REPOSITORY_URL>
+git clone https://github.com/Madesh-cse/SOP-Copilot
 cd manufacturing-sop-copilot
 ```
 
@@ -376,7 +376,6 @@ The machine is showing alarm AL-104. What does it mean and what should the opera
 ![Questions-2](https://github.com/Madesh-cse/SOP-Copilot/blob/a8ec7a484a4c059f472dce3fd85a8878fb235c65/Question-2.png)
 
 **Retrieved source:**  
-[Document name and page number.]
 
 ### Question 3 
 
