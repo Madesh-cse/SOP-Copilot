@@ -356,7 +356,7 @@ The following questions should demonstrate different types of manufacturing-docu
 
 **Important:** Run each question in the actual application. Copy the application's answer and source references into the corresponding answer section. Do not write an answer based only on what you expect the model to return.
 
-### Question 1 — Specification / Measurement
+### Question 1
 
 **Question:**  
 1.What is the recommended coolant concentration for the TX-200 CNC turning centre?
@@ -368,50 +368,37 @@ The following questions should demonstrate different types of manufacturing-docu
 **Retrieved source:**  
 [Document name and page number.]
 
-### Question 2 — Preventive Maintenance
-
-**Question:**  
-[Enter an original question about a maintenance interval, inspection, or maintenance procedure.]
+### Question 2 
+The machine is showing alarm AL-104. What does it mean and what should the operator do?
 
 **Actual application answer:**
 
-[Paste the answer returned by the application.]
+![Questions-2](https://github.com/Madesh-cse/SOP-Copilot/blob/a8ec7a484a4c059f472dce3fd85a8878fb235c65/Question-2.png)
 
 **Retrieved source:**  
 [Document name and page number.]
 
-### Question 3 — Quality Inspection
+### Question 3 
 
-**Question:**  
-[Enter an original question about a quality-control or incoming-material inspection requirement.]
+Who is allowed to remove a lockout lock from a machine?
 
 **Actual application answer:**
 
-[Paste the answer returned by the application.]
-
-**Retrieved source:**  
-[Document name and page number.]
+![Questions-3](https://github.com/Madesh-cse/SOP-Copilot/blob/b03896e9a9af759d0f8868a04fdfdb6cfd14779a/Question-3.png)
 
 ### Question 4 — Operational Procedure
 
-**Question:**  
-[Enter an original question about an operating procedure, sequence, or safety instruction documented in the PDFs.]
+What is the outer diameter tolerance for the BH-220 bearing housing?
 
 **Actual application answer:**
 
-[Paste the answer returned by the application.]
-
-**Retrieved source:**  
-[Document name and page number.]
+![Questions-4](https://github.com/Madesh-cse/SOP-Copilot/blob/3f9e1a5485be3da27bcbb253817f6862e6b1c774/Question-4.png)
 
 ### Question 5 — Unsupported / Unanswerable Question
 
-**Question:**  
-[Ask a manufacturing-related question whose answer is not present in any of the supplied PDFs.]
-
 **Actual application answer:**
 
-[Paste the exact abstention response returned by the application.]
+![Question-5](https://github.com/Madesh-cse/SOP-Copilot/blob/a0776a70b260bc2969dd2d778e2258e6063f8114/Question-5.png)
 
 **Expected behavior:**  
 The application should communicate that the supplied documents do not contain sufficient information to answer the question. It should not invent a procedure, measurement, or requirement.
